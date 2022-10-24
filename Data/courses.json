@@ -1,0 +1,44 @@
+[
+    {
+      "id": "01",
+      "category_id": "01",
+      "title": "C/C++ Programming for Programming and Problem Solving",
+      "image": "https://i.ibb.co/Ns9Wvc5/c.jpg",
+      "description":"A very good course for c/c++ developers."
+    },
+    {
+      "id": "02",
+      "category_id": "02",
+      "title": "Algorithms and Optimization",
+      "image": "https://i.ibb.co/Ns9Wvc5/c.jpg",
+      "description":"A very good course for algorithm learning and optimizing."
+    },
+    {
+      "id": "03",
+      "category_id": "03",
+      "title": "OOP in Java with advanced concepts",
+      "image": "https://i.ibb.co/Ns9Wvc5/c.jpg",
+      "description":"A very good course for Java developers."
+    },
+    {
+      "id": "04",
+      "category_id": "04",
+      "title": "AI & ML in PyThon with live projects",
+      "image": "https://i.ibb.co/Ns9Wvc5/c.jpg",
+      "description":"A very good course for python developers."
+    },
+    {
+      "id": "05",
+      "category_id": "05",
+      "title": "Development in React covering full stack web development",
+      "image": "https://i.ibb.co/Ns9Wvc5/c.jpg",
+      "description":"A very good course for web developers."
+    },
+    {
+      "id": "06",
+      "category_id": "06",
+      "title": "C# and Unity with real game engine",
+      "image": "https://i.ibb.co/Ns9Wvc5/c.jpg",
+      "description":"A very good course for game developers."
+    }
+]

@@ -4,8 +4,28 @@ const cors = require('cors');
 app.use(cors());
 const Port = process.env.Port || 5000;
 
+const categories = require('./Data/categories.json');
+const courses = require('./Data/courses.json');
+
 app.get('/',(req,res)=>{
     res.send('course server running');
+});
+
+app.get('/categories',(req,res)=>{
+    res.send(categories);
+});
+
+app.get('/courses',(req,res)=>{
+    res.send(courses);
+});
+
+app.get('/course/:id',(req,res)=>{
+    const id = req.params.id;
+    const course = courses.find(c => c.id == id);
+    if(!course){
+        res.send('no data found with id: ',id);
+    }
+    res.send(course);
 })
 
 app.listen(Port, ()=>{

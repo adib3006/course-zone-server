@@ -4,15 +4,10 @@ const cors = require('cors');
 app.use(cors());
 const Port = process.env.Port || 5000;
 
-const categories = require('./Data/categories.json');
 const courses = require('./Data/courses.json');
 
 app.get('/',(req,res)=>{
     res.send('course server running');
-});
-
-app.get('/categories',(req,res)=>{
-    res.send(categories);
 });
 
 app.get('/courses',(req,res)=>{

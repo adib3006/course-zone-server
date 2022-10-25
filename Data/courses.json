@@ -1,44 +1,44 @@
 [
     {
       "id": "01",
-      "category_id": "01",
-      "title": "C/C++ Programming for Programming and Problem Solving",
+      "name": "C/C++ Programming",
+      "short_detail": "C/C++ Programming for Programming and Problem Solving",
       "image": "https://i.ibb.co/Ns9Wvc5/c.jpg",
-      "description":"A very good course for c/c++ developers."
+      "description":"C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners. C++ is an extension to c and a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on. C++ supports different ways of programming like procedural, object-oriented, functional, and so on. This makes C++ powerful as well as flexible."
     },
     {
       "id": "02",
-      "category_id": "02",
-      "title": "Algorithms and Optimization",
-      "image": "https://i.ibb.co/Ns9Wvc5/c.jpg",
-      "description":"A very good course for algorithm learning and optimizing."
+      "name": "Algorithms",
+      "short_detail": "Algorithms and Optimization",
+      "image": "https://i.ibb.co/JH6tMFQ/algo.jpg",
+      "description":"An algorithm is a procedure used for solving a problem or performing a computation. Algorithms act as an exact list of instructions that conduct specified actions step by step in either hardware- or software-based routines. Algorithms are widely used throughout all areas of IT. In mathematics and computer science, an algorithm usually refers to a small procedure that solves a recurrent problem. Algorithms are also used as specifications for performing data processing and play a major role in automated systems."
     },
     {
       "id": "03",
-      "category_id": "03",
-      "title": "OOP in Java with advanced concepts",
-      "image": "https://i.ibb.co/Ns9Wvc5/c.jpg",
-      "description":"A very good course for Java developers."
+      "name": "OOP in Java",
+      "short_detail": "OOP in Java with advanced concepts",
+      "image": "https://i.ibb.co/P9rh0Xr/java.png",
+      "description":"OOP stands for Object-Oriented Programming. Procedural programming is about writing procedures or methods that perform operations on the data, while object-oriented programming is about creating objects that contain both data and methods. Object-oriented programming has several advantages over procedural programming OOP is faster and easier to execute. OOP provides a clear structure for the programs. OOP helps to keep the Java code DRY or Don't Repeat Yourself and makes the code easier to maintain modify and debug OOP makes it possible to create full reusable applications with less code and shorter development time."
     },
     {
       "id": "04",
-      "category_id": "04",
-      "title": "AI & ML in PyThon with live projects",
-      "image": "https://i.ibb.co/Ns9Wvc5/c.jpg",
-      "description":"A very good course for python developers."
+      "name": "AI & ML in PyThon",
+      "short_detail": "AI & ML in PyThon with live projects",
+      "image": "https://i.ibb.co/bz4QLcV/python.png",
+      "description":"Machine Learning is making the computer learn from studying data and statistics. Machine Learning is a step into the direction of artificial intelligence (AI). Machine Learning is a program that analyses data and learns to predict the outcome. Machine learning is a type of artificial intelligence (AI) that provides computers with the ability to learn without being explicitly programmed. Machine learning focuses on the development of Computer Programs that can change when exposed to new data. PyThon is popular for ML because of it's robustness and it is very high level language."
     },
     {
       "id": "05",
-      "category_id": "05",
-      "title": "Development in React covering full stack web development",
-      "image": "https://i.ibb.co/Ns9Wvc5/c.jpg",
-      "description":"A very good course for web developers."
+      "name": "Development in React",
+      "short_detail": "Development in React covering full stack web development",
+      "image": "https://i.ibb.co/tc7xmVr/react.png",
+      "description":"The React.js framework is an open-source JavaScript framework and library developed by Facebook It’s used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript. In React, you develop your applications by creating reusable components that you can think of as independent Lego blocks. These components are individual pieces of a final interface, which, when assembled, form the application’s entire user interface. It is very popular among developers around the world."
     },
     {
       "id": "06",
-      "category_id": "06",
-      "title": "C# and Unity with real game engine",
-      "image": "https://i.ibb.co/Ns9Wvc5/c.jpg",
-      "description":"A very good course for game developers."
+      "name": "Data Science",
+      "short_detail": "Learn Industry Grade Data Science using Python",
+      "image": "https://i.ibb.co/8B6qyHv/data.jpg",
+      "description":"Data science is the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data. Data science practitioners apply machine learning algorithms to numbers, text, images, video, audio, and more to produce artificial intelligence (AI) systems to perform tasks that ordinarily require human intelligence. In turn, these systems generate insights which analysts and business users can translate into tangible business value. More and more companies are coming to realize the importance of data science, AI, and machine learning. Regardless of industry or size, organizations that wish to remain competitive in the age of big data need to efficiently develop and implement data science capabilities or risk being left behind. so we can say data science is a very promising field."
     }
 ]
